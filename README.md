@@ -1,2 +1,2 @@
-# BasicKnowledgeJava
-java的基础知识
+# KnowledgePoint
+知识点的学习，主要以文章的方式进行记录
